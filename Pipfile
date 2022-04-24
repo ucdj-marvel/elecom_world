@@ -7,6 +7,8 @@ name = "pypi"
 django = "*"
 psycopg2 = "*"
 python-dotenv = "*"
+djangorestframework = "*"
+django-cors-headers = "*"
 
 [dev-packages]
 
